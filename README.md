@@ -17,4 +17,4 @@ This is a repository for learning machine learning models.
 
 ## Reading List
 - [Collaborative filtering with nn](https://www.width.ai/post/neural-collaborative-filtering)
-- [why energy based models?](https://physicsofebm.github.io/)
+- [Why energy based models?](https://physicsofebm.github.io/)
