@@ -16,4 +16,5 @@ This is a repository for learning machine learning models.
 1. Learn the Restricted Boltzmann Machine, and experiment with recommendation system implementation.
 
 ## Reading List
-   https://www.width.ai/post/neural-collaborative-filtering 
+- [Collaborative filtering with nn](https://www.width.ai/post/neural-collaborative-filtering)
+- [why energy based models?](https://physicsofebm.github.io/)
