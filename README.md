@@ -1,4 +1,4 @@
-# ML-Learning
+# Machine Learning Playground
 
 ## Index
 
